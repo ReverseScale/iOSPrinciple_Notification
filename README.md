@@ -482,6 +482,4 @@ NSPort *_port;
 
 发送和处理在不同线程，实现通知的效果
 
-https://www.jianshu.com/p/051a9a3af1a4
-https://www.jianshu.com/p/087a35d5f778
-https://blog.csdn.net/qq_18505715/article/details/76146575
+> 以上原理解析文章来源：https://www.jianshu.com/p/051a9a3af1a4，https://www.jianshu.com/p/087a35d5f778，https://blog.csdn.net/qq_18505715/article/details/76146575
